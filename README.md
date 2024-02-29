@@ -1,5 +1,5 @@
 # Data-Analytics-Capstone-Project
-In this Capstone project we will assume that, We have recently been hred by a global IT and Business consulting services firm that is known for their expertise in IT solutions and the highly experienced IT consultants. In order to keep pace with the changing technologies and remain competitive, our organization regularly analyze data to identify future skills requirement.
+In this Capstone project we will assume that, We have recently been hired by a global IT and Business consulting services firm that is known for their expertise in IT solutions and the highly experienced IT consultants. In order to keep pace with the changing technologies and remain competitive, our organization regularly analyze data to identify future skills requirement.
 
 As a Data Analyst, we will bw assisting in this initiative and have been asked to gather data from different sources and identifying skills for this year's report on emerging skills.
 
